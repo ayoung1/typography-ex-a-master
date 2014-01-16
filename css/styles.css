@@ -1,0 +1,19 @@
+/* Your Website Styles */
+h1{
+	font-family: 'Old Standard TT', serif;
+	font-size: 40px;
+}
+
+p{
+	font-family: 'Playfair Display', serif;
+}
+
+h3{
+	font-family: 'Old Standard TT', serif;
+	font-size: 25px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
